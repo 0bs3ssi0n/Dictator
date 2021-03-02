@@ -19,3 +19,8 @@ Take every line of list.txt, append either '_', '-' or nothing, then for each li
 
 `Dictator --file ./list.txt --chars '_-' --file ./list.txt`
 
+
+Generate the numbers 0-9, append each line of list.txt to each number, append the numbers 0-9 to each line, append special characters to each line twice:
+
+`Dictator --nums nano --file ./list.txt --nums nano --chars '!@#%' --chars '!@#%'`
+
