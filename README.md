@@ -1,0 +1,2 @@
+# Dictator
+Dictionary Generator
