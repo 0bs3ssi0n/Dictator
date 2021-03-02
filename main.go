@@ -38,6 +38,11 @@ func DICTUsage(arg string){
 	for _, cmd := range DICTCommandList{
 		msg += "  " + cmd.name + "  " + cmd.longname + ": " + cmd.descr + "\n"
 	}
+	msg += "EXAMPLES:\n"
+	msg += "  " + "Dictator --file ./list.txt --case --chars \"!@#%\"" + "\n"
+	msg += "  " + "Dictator --file ./list.txt --chars '_-' --file ./list.txt" + "\n"
+	msg += "  " + "Dictator --nums nano --file ./list.txt --nums nano --chars '!@#%' --chars '!@#%'" + "\n"
+
 	fmt.Println(msg)
 }
 
