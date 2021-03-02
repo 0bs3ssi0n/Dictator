@@ -1,5 +1,5 @@
 # Dictator
-Dictionary Generator is a dictionary generation tool which allows you to create dictionary lists in a very customized way.
+#### Dictionary Generator is a dictionary generation tool which allows you to create dictionary lists in a very customized way.
 
 ![image](https://user-images.githubusercontent.com/70066388/109635222-6ce9f380-7b4a-11eb-94c8-c89fd2d9db78.png)
 
