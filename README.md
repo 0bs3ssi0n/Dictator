@@ -25,7 +25,7 @@ Generate the numbers 0-9, append each line of list.txt to each number, append th
 `Dictator --nums nano --file ./list.txt --nums nano --chars '!@#%' --chars '!@#%'`
 
 
-`
+```
 Dictator V1.0 | Dictionary Generator
 Usage: Dictator <arguments>
 DICTIONARY GENERATOR FLAGS:
@@ -38,6 +38,5 @@ DICTIONARY GENERATOR FLAGS:
   -t  --text: Specify a piece of text it should append after each line.
   -h  --help: Show help menu.
 
-
-`
+```
 
